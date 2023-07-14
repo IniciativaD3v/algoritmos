@@ -1,4 +1,4 @@
-// A funçao insertionSort recebe um array de 0 até n elementos
+// A função insertionSort recebe um array de 0 até n elementos
 ```
 insertionSort($A[0...n]) 
 
