@@ -8,7 +8,7 @@ insertionSort($A[0...n])
         
 
         Loop_2 enquanto $j > 0 E $elemento < $A[j-1]
-            $A[j] = $A[j-1];
+            $A[$j] = $A[$j-1];
             $j <- $j-1;
         fim do Loop_2
 
