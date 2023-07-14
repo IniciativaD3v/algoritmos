@@ -2,14 +2,14 @@
 
 ## Tecnologias utilizadas:
 
-Todas as tecnologias utilizadas seram colocadas aqui.
+Todas as tecnologias utilizadas serão colocadas aqui.
 
 ## Objetivos do Projeto
 
-O Objetivo desse projeto é criar um repositorio com uma grande gama de algoritimos com dois intuitos:
+O Objetivo desse projeto é criar um repositorio com uma grande gama de algoritimos afim de:
 1. Ajudar as pessoas que precisam dos algoritmos
-2. Criar um ponto de interaçao da comunidade Iniciativa Dev afim de que todos possam treinar a logica de programaçao
+2. Criar um ponto de interação da comunidade Iniciativa Dev afim de que todos possam treinar a lógica de programação 
 
 ### Adiministradores
 
-Os responsaveis pelo projeto somente colocaram pseudocodigos sem implentaçao, deixando assim para os participantes da comunidade o papel de implementar esses codigos nas linguagens que dominam
+Os responsáveis pelo projeto somente colocarão pseudocodigos sem implantação, deixando assim para os participantes da comunidade o papel de implementar esses codigos nas linguagens que dominam.
