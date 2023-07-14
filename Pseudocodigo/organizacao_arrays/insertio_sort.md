@@ -1,8 +1,10 @@
-// A função insertionSort recebe um array de 0 até n elementos
+#Insert sort
+
+##A função insertionSort recebe um array de 0 até n elementos
 ```
 insertionSort($A[0...n]) 
 
-    Loop_1 de $i <- 0 até n
+    Loop_1 de $i <- 0 até n -1
         $j <- $i+1;
         $elemento <- $A[j];
         
